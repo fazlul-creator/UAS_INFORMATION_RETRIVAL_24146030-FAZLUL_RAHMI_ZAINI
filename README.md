@@ -4,4 +4,4 @@
 * **NIM**: 24146030
 * **Mata Kuliah**: Information Retrieval (SII502)
 * **Dosen Pengampu**: Teuku Rizky Noviandy, S.Kom., M.Kom.
-* **Link Streamlit Deployment**: [Tempel Link Streamlit Setelah Deploy Di Sini]
+* **Link Streamlit Deployment**: https://uasinformationretrieval24146030-fazlulrahmizaini-jqyrib8mt9pts.streamlit.app
